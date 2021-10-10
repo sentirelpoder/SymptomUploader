@@ -1,0 +1,6 @@
+#FileLock
+#Sun Oct 10 16:21:54 EET 2021
+server=192.168.1.7\:62882
+hostName=setenays-mbp
+method=file
+id=17c6a5de9e66ca8c1e41a16511bca2dc27439037589
